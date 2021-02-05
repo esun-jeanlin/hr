@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="78px" viewBox="0 0 79 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 25</title>
+    <defs>
+        <circle id="path-1" cx="31" cy="31" r="31"></circle>
+        <filter x="-19.4%" y="-19.4%" width="138.7%" height="138.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.681272645   0 0 0 0 0.681272645   0 0 0 0 0.681272645  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="視覺稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首頁-人才培育(單色板)" transform="translate(-1118.000000, -3643.000000)">
+            <g id="Group-25" transform="translate(1126.500000, 3651.000000)">
+                <g id="Oval-Copy-12">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill-opacity="0.567498907" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M29.1826782,28.0977255 L46.3120133,28.9736832 C47.3372199,29.02611 48.1562625,29.8461922 48.207389,30.8714644 L48.2528998,31.7841195 C48.3079122,32.8873182 47.4581893,33.8262339 46.3549905,33.8812463 C46.2877809,33.8845978 46.2204449,33.8845551 46.1532395,33.8811183 L29.0239043,33.0051606 C27.9986978,32.9527338 27.1796551,32.1326516 27.1285286,31.1073794 L27.0830179,30.1947243 C27.0280055,29.0915256 27.8777284,28.1526099 28.9809271,28.0975975 C29.0481368,28.094246 29.1154728,28.0942887 29.1826782,28.0977255 Z" id="Rectangle-Copy-12" fill="#1AA6B5" transform="translate(37.667959, 30.989422) rotate(218.000000) translate(-37.667959, -30.989422) "></path>
+                <path d="M18.0583818,29.2751798 L31.4096356,30.1332511 C32.4321241,30.1989654 33.23958,31.0267793 33.2798193,32.0505868 L33.3155933,32.9607831 C33.3589733,34.0645005 32.4994001,34.9944066 31.3956828,35.0377867 C31.3267446,35.0404962 31.2577124,35.0396368 31.188863,35.0352119 L17.8376092,34.1771406 C16.8151207,34.1114263 16.0076648,33.2836124 15.9674255,32.2598049 L15.9316515,31.3496086 C15.8882715,30.2458912 16.7478447,29.3159851 17.851562,29.272605 C17.9205002,29.2698955 17.9895324,29.2707549 18.0583818,29.2751798 Z" id="Rectangle-Copy-14" fill="#1AA6B5" transform="translate(24.623622, 32.155196) scale(-1, 1) rotate(-142.000000) translate(-24.623622, -32.155196) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

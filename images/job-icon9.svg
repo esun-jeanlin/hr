@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="36px" viewBox="0 0 53 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 28</title>
+    <g id="切圖" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-4" transform="translate(-768.000000, -972.000000)" stroke="#2B93AE" stroke-width="3">
+            <g id="Group-28" transform="translate(770.000000, 973.114238)">
+                <polyline id="Path-3" points="3.05555556 24.7600692 16.1123719 10.9702274 27.8300275 30.2760059 44 5.88576196"></polyline>
+                <ellipse id="Oval" fill="#FFFFFF" cx="3.66666667" cy="24.788201" rx="3.66666667" ry="3.65853659"></ellipse>
+                <ellipse id="Oval-Copy" fill="#FFFFFF" cx="15.8888889" cy="11.9833229" rx="3.66666667" ry="3.65853659"></ellipse>
+                <ellipse id="Oval-Copy-2" fill="#FFFFFF" cx="27.5" cy="27.2272254" rx="3.66666667" ry="3.65853659"></ellipse>
+                <path d="M44.2655647,3.78651579 L47.1491889,9.55331489 C47.3961935,10.0472857 47.1959879,10.647965 46.7020171,10.8949696 C46.5633994,10.9642839 46.4105681,11.0004304 46.2555864,11.000556 L40.478979,11.0052397 C39.9266944,11.0056875 39.4786163,10.5583354 39.4781685,10.0060508 C39.4780422,9.85019283 39.5143485,9.6964629 39.5841902,9.55712925 L42.4771734,3.7856465 C42.7246582,3.29191606 43.3255318,3.09229447 43.8192622,3.33977921 C44.0123761,3.43657845 44.1689533,3.59330793 44.2655647,3.78651579 Z" id="Triangle" fill="#FFFFFF" transform="translate(43.364935, 6.503277) rotate(32.000000) translate(-43.364935, -6.503277) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

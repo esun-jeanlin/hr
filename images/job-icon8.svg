@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="33px" viewBox="0 0 37 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 18</title>
+    <g id="切圖" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-4" transform="translate(-584.000000, -963.000000)" stroke="#2B93AE" stroke-width="3">
+            <g id="Group-18" transform="translate(586.000000, 965.000000)">
+                <circle id="Oval" cx="14.5" cy="14.5" r="7.5"></circle>
+                <circle id="Oval" cx="14.5" cy="14.5" r="14.5"></circle>
+                <path d="M22.8798942,4.98886349 L25.2119808,19.0898768 C25.302096,19.63476 24.9334336,20.1495279 24.3885504,20.2396431 C24.1189477,20.2842311 23.8428422,20.216547 23.6244264,20.0523268 L21.8279191,18.7015871 L21.8279191,18.7015871 L20.4089165,19.8603547 C19.9811418,20.2096786 19.3511788,20.1460816 19.0018549,19.7183068 C18.8230818,19.499385 18.745301,19.2150343 18.7877542,18.9355986 L20.9046405,5.00183003 C20.9875944,4.45581071 21.4974779,4.08042204 22.0434973,4.16337597 C22.4716217,4.22841873 22.8092365,4.56162986 22.8798942,4.98886349 Z" id="Triangle" fill="#FFFFFF" transform="translate(22.008475, 10.161098) rotate(-120.000000) translate(-22.008475, -10.161098) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

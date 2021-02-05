@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="40px" viewBox="0 0 45 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 27</title>
+    <g id="切圖" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-4" transform="translate(-853.000000, -646.000000)">
+            <g id="Group-27" transform="translate(853.000000, 646.000000)">
+                <rect id="Rectangle" stroke="#1D5C75" stroke-width="3" fill="#FFFFFF" x="1.5" y="1.5" width="42" height="30" rx="4"></rect>
+                <path d="M15.1892638,33 L32.0804077,33 C32.5179582,33 32.9046982,33.2844613 33.0350213,33.7021529 L34.5950613,38.7021529 C34.7595577,39.2293715 34.4655133,39.7901172 33.9382948,39.9546136 C33.8418743,39.9846976 33.7414525,40 33.6404477,40 L13.4157473,40 C12.8634626,40 12.4157473,39.5522847 12.4157473,39 C12.4157473,38.8861046 12.4352045,38.7730463 12.4732794,38.6657035 L14.2467958,33.6657035 C14.3883397,33.266655 14.7658558,33 15.1892638,33 Z" id="Rectangle" fill="#1D5C75"></path>
+                <rect id="Rectangle" fill="#1D5C75" x="10" y="11" width="26" height="2" rx="1"></rect>
+                <rect id="Rectangle-Copy-15" fill="#1D5C75" x="12" y="19" width="21" height="2" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

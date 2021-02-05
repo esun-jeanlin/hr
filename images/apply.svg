@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="105px" viewBox="0 0 105 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 47</title>
+    <defs>
+        <circle id="path-1" cx="48.5" cy="48.5" r="48.5"></circle>
+        <filter x="-5.7%" y="-4.6%" width="115.5%" height="115.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="視覺稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首頁-人才培育(單色板)" transform="translate(-1086.000000, -618.000000)">
+            <g id="Group-47" transform="translate(1088.000000, 619.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#5DE9CA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M36.7550559,38.8377465 C34.9423715,38.919888 34.6163403,38.9079765 34.2328878,39.8451977 C34.0323563,40.335814 33.1436681,41.4202371 33.0807329,42.1679431 C32.99425,43.1954087 33.8185137,43.9318759 34.2328878,44.7537049 C36.3980185,49.0478124 42.9744759,52.7782117 43.3946356,53.0909091 L44.5726824,59 L58.4976521,59 C58.5968671,56.7552474 58.3984371,55.5557726 58.4976521,53.31102 C60.5818347,50.7324922 62.0799539,47.3389417 61.9748192,43.8736051 C61.8185541,38.7229619 58.7546195,33.5929581 53.9364449,32.1939175 C52.0306214,31.6405286 50.9786649,31.9542259 49.8738928,32.1939175 L49.2545708,25.0327932 C49.227756,21.9545062 46.9324042,19.7111002 44.6920229,20.0302402 C42.7680569,20.304943 41.1484395,22.4311963 41.1658692,25.0327932 C41.3415065,28.9096034 42.0837757,36.5815626 41.9470199,40.7788594 C41.9242273,41.4575369 38.7071775,38.7502186 36.7550559,38.8377465 Z" id="Stroke-1" stroke="#5DE9CA" fill="#FBFBFB"></path>
+                <text id="參加甄選" font-family="DFHeiStd-W9, DFHei Std" font-size="18" font-weight="700" letter-spacing="0.957446809" fill="#FFFFFF">
+                    <tspan x="11" y="78">參加甄選</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#B5E2DF" fill="#FFFFFF" transform="translate(33.080733, 15.500000) rotate(-32.000000) translate(-33.080733, -15.500000) " x="31.5807329" y="11.5" width="3" height="8" rx="1.5"></rect>
+                <rect id="Rectangle-Copy" stroke="#B5E2DF" fill="#FFFFFF" transform="translate(59.082199, 15.500000) scale(-1, 1) rotate(-32.000000) translate(-59.082199, -15.500000) " x="57.5821986" y="11.5" width="3" height="8" rx="1.5"></rect>
+                <rect id="Rectangle-Copy-2" stroke="#B5E2DF" fill="#FFFFFF" transform="translate(46.081466, 11.500000) scale(-1, 1) translate(-46.081466, -11.500000) " x="44.5814658" y="7.5" width="3" height="8" rx="1.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

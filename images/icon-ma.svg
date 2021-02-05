@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="44px" viewBox="0 0 54 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 33</title>
+    <g id="切圖" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-4" transform="translate(-122.000000, -609.000000)" stroke="#1D5C75" stroke-width="3">
+            <g id="Group-33" transform="translate(124.000000, 611.000000)">
+                <circle id="Oval" cx="25" cy="5.15873016" r="5.15873016"></circle>
+                <path d="M16.6666667,24.6031746 L16.6666667,22.2857143 C16.6666667,17.8674363 20.2483887,14.2857143 24.6666667,14.2857143 L26.9206349,14.2857143 C31.3389129,14.2857143 34.9206349,17.8674363 34.9206349,22.2857143 L34.9206349,24.6031746 L34.9206349,24.6031746" id="Path-4"></path>
+                <path d="M4.76190476,32.5396825 L4.76190476,26.6031746 C4.76190476,25.4986051 5.65733526,24.6031746 6.76190476,24.6031746 L44.8253968,24.6031746 C45.9299663,24.6031746 46.8253968,25.4986051 46.8253968,26.6031746 L46.8253968,32.5396825 L46.8253968,32.5396825" id="Path-5"></path>
+                <line x1="25.3968254" y1="24.8962843" x2="25.3968254" y2="32.1789322" id="Line-8" stroke-linecap="square"></line>
+                <circle id="Oval" cx="3.96825397" cy="35.7142857" r="3.96825397"></circle>
+                <circle id="Oval" cx="25.3968254" cy="35.7142857" r="3.96825397"></circle>
+                <circle id="Oval" cx="46.031746" cy="35.7142857" r="3.96825397"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
