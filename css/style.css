@@ -1165,7 +1165,7 @@ header {
         margin-left: 12px;
         text-align: left;
         line-height: 34px;
-        width: 250px;
+        width: 220px;
     }
 
     .benifit img {
@@ -1243,6 +1243,7 @@ header {
     }
 
     .process-sm {
+         margin-top: 0px;
         width: 100%;
         display: initial;
     }
