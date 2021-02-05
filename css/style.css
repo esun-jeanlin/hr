@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 
 * {
     margin: 0;
@@ -1243,20 +1243,19 @@ header {
     }
 
     .process-sm {
-         margin-top: 0px;
-        width: 100%;
-        display: initial;
+        margin-top: 10px;
+        width: 442px;
+        height:1184px;
+        display: block;
     }
 
-    /* .process-sm {
-        width: 95%;
-    } */
 
 }
 
 @media screen and (max-width: 376px) {
     .process-sm {
         width: 320px;
+        height:588px;
     }
 
 }
