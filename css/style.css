@@ -1256,9 +1256,10 @@ margin-left:  0px;
 
 @media screen and (max-width: 376px) {
     .process-sm {
-        width: 340px;
-        height:990px;
+        width: 350px;
+        height: 1018px;
     }
+    
 
 }
 
