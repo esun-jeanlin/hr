@@ -64,6 +64,12 @@ $(document).ready(function () {
 
     });
 
+    //table
+    if($(".popup-block p").eq(3).text() == ""){
+        $(".popup-block").eq(3).hide();
+    }
+console.log($(".popup-block p").eq(3).text());
+
     //常見問題
     $('.qa-list .qa .qa-content').slideUp();
     $('.qa-list .qa').click(function () {
