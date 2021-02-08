@@ -1246,8 +1246,8 @@ margin-left:  0px;
 
     .process-sm {
         margin-top: 10px;
-        width: 442px;
-        height:1184px;
+        width: 400px;
+        height:1164px;
         display: block;
     }
 
@@ -1256,8 +1256,8 @@ margin-left:  0px;
 
 @media screen and (max-width: 376px) {
     .process-sm {
-        width: 320px;
-        height:588px;
+        width: 340px;
+        height:990px;
     }
 
 }
