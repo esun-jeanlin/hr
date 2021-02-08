@@ -1594,7 +1594,7 @@ table {
 }
 
 .job-table tr th:nth-child(1) {
-    width: 200px;
+    width: 240px;
     border-radius: 8px 0px 0px 0px;
 }
 .job-table tr th:nth-child(3) {
@@ -1750,7 +1750,7 @@ table tr{
     
    .rwd-table tr {
        border-radius: 10px;
-       margin-bottom: 15px;
+       margin-bottom: 22px;
        display: inline-block;
        width: 100%;
        border: 1px solid #dadada;
@@ -1836,9 +1836,13 @@ table tr{
 
 .fancybox-content {
     border-radius: 5px;
-    max-width: 800px;
+    max-width: 900px;
     box-shadow: 0 0 6px #ffffff;
 }
+
+
+
+
 
 .fancybox-button {
     width: 50px;
@@ -1931,6 +1935,12 @@ table tr{
         padding-left: 22px;
     }
 }
+
+@media screen and (max-width: 576px) {
+    .fancybox-content {
+        padding:44px 16px;}
+}
+
 
 
 /* ------------------------------------keyframe
