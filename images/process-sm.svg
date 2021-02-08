@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="579px" height="1684px" viewBox="0 0 579 1684" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy 3</title>
+    <defs>
+        <circle id="path-1" cx="293.5" cy="980.5" r="102.5"></circle>
+        <filter x="-8.8%" y="-8.8%" width="117.6%" height="117.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.890313632   0 0 0 0 0.890313632   0 0 0 0 0.890313632  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="293.5" cy="518.5" r="102.5"></circle>
+        <filter x="-8.8%" y="-8.8%" width="117.6%" height="117.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.890313632   0 0 0 0 0.890313632   0 0 0 0 0.890313632  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-5" cx="293.5" cy="113.5" r="102.5"></circle>
+        <filter x="-8.8%" y="-8.8%" width="117.6%" height="117.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.890313632   0 0 0 0 0.890313632   0 0 0 0 0.890313632  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-7" cx="293.5" cy="1439.5" r="102.5"></circle>
+        <filter x="-8.8%" y="-8.8%" width="117.6%" height="117.6%" filterUnits="objectBoundingBox" id="filter-8">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.890313632   0 0 0 0 0.890313632   0 0 0 0 0.890313632  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Artboard-Copy-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="專業能力及筆試測驗" font-family="MicrosoftJhengHeiBold, Microsoft JhengHei" font-size="26" font-weight="bold" line-spacing="28" letter-spacing="2.16666667" fill="#1D5C75">
+            <tspan x="168.350586" y="1235.15234">專業能力及筆試測驗</tspan>
+        </text>
+        <g id="Oval-Copy-2">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <text id="第二階段面談" font-family="MicrosoftJhengHeiBold, Microsoft JhengHei" font-size="30" font-weight="bold" line-spacing="28" letter-spacing="2.5" fill="#1D5C75">
+            <tspan x="197.231445" y="1189.17578">第二階段面談</tspan>
+        </text>
+        <text id="Step3" font-family="DFHeiStd-W7, DFHei Std" font-size="28" font-weight="bold" letter-spacing="1.4893617" fill="#AEAEAE">
+            <tspan x="257.684596" y="1127">Step3</tspan>
+        </text>
+        <line x1="264" y1="1143.5" x2="320" y2="1143.5" id="Path" stroke="#C2C2C2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <g id="Group-5" transform="translate(246.000000, 930.000000)">
+            <path d="M101.559607,25.1094326 L96.9175218,20.4761291 C94.9937155,18.559239 91.8745064,18.559239 89.9507,20.4761291 L86.4691358,23.9511068 L98.0780432,35.5384615 L101.559607,32.0630743 C103.480131,30.1429075 103.480131,27.0295995 101.559607,25.1094326 Z" id="Path" fill="#53D6B9"></path>
+            <path d="M22.2996793,26.3102807 L19.016707,29.5920916 L18.2727697,28.8486629 C17.2809591,27.85679 15.6743847,27.85679 14.6825742,28.8486629 C13.6904462,29.8402184 13.6904462,31.4463798 14.6825742,32.4379353 L17.2216092,34.9763175 C18.2134198,35.9681904 19.8199942,35.9681904 20.8118047,34.9763175 L25.8898748,29.8995531 C26.8820028,28.9079976 26.8820028,27.3018362 25.8898748,26.3102807 C24.8980643,25.3184078 23.2914898,25.3184078 22.2996793,26.3102807 Z" id="Path" fill="#53D6B9"></path>
+            <path d="M22.2996793,45.1669816 L19.016707,48.4487925 L18.2727697,47.7053638 C17.2809591,46.7134909 15.6743847,46.7134909 14.6825742,47.7053638 C13.6904462,48.6969193 13.6904462,50.3030807 14.6825742,51.2946362 L17.2216092,53.8330184 C18.2134198,54.8248913 19.8199942,54.8248913 20.8118047,53.8330184 L25.8898748,48.756254 C26.8820028,47.7646985 26.8820028,46.1585371 25.8898748,45.1669816 C24.8980643,44.1751087 23.2914898,44.1751087 22.2996793,45.1669816 Z" id="Path-Copy" fill="#53D6B9"></path>
+            <path d="M22.2996793,65.4746739 L19.016707,68.7564848 L18.2727697,68.0130561 C17.2809591,67.0211832 15.6743847,67.0211832 14.6825742,68.0130561 C13.6904462,69.0046116 13.6904462,70.610773 14.6825742,71.6023285 L17.2216092,74.1407107 C18.2134198,75.1325836 19.8199942,75.1325836 20.8118047,74.1407107 L25.8898748,69.0639463 C26.8820028,68.0723908 26.8820028,66.4662294 25.8898748,65.4746739 C24.8980643,64.482801 23.2914898,64.482801 22.2996793,65.4746739 Z" id="Path-Copy-2" fill="#53D6B9"></path>
+            <polygon id="Path" fill="#53D6B9" points="62.3665592 65.4855649 56.5364351 59.6538462 53.4074074 66.5281587 55.4895946 68.6102524"></polygon>
+            <path d="M70.5744446,63.657876 C69.7578123,64.476352 68.8022407,65.1362664 67.7521072,65.6115372 L55.1090313,71.3557733 C53.9718015,71.873272 52.6271993,71.6306686 51.742549,70.7476088 C50.8578986,69.8649629 50.6181762,68.5223642 51.1299711,67.3871789 L56.8878711,54.7668336 C57.3644127,53.7190021 58.0251009,52.7647344 58.8446364,51.9495704 L84.9092639,25.9326315 L96.6419753,37.6442491 L70.5744446,63.657876 Z" id="Path" fill="#53D6B9"></path>
+            <rect id="Rectangle" stroke="#53D6B9" stroke-width="4" x="2" y="2" width="73.5679012" height="95" rx="5"></rect>
+            <rect id="Rectangle" fill="#53D6B9" x="35.6049383" y="25.3846154" width="31.7901235" height="6.34615385" rx="2.5"></rect>
+            <rect id="Rectangle-Copy-4" fill="#53D6B9" x="35.6049383" y="46.9615385" width="31.7901235" height="6.34615385" rx="2.5"></rect>
+            <path d="M60.3428971,56.1599571 C62.0893798,56.1583339 65.8472595,66.5069804 65.8472595,66.5069804 C65.8472595,66.5069804 56.2602012,67.076807 56.0374204,66.7344647 C55.8146396,66.3921224 58.5964144,56.1615802 60.3428971,56.1599571 Z" id="Triangle" fill="#FFFFFF" transform="translate(60.936038, 61.501955) rotate(-132.000000) translate(-60.936038, -61.501955) "></path>
+        </g>
+        <text id="適任性評估" font-family="MicrosoftJhengHeiBold, Microsoft JhengHei" font-size="26" font-weight="bold" line-spacing="28" letter-spacing="2.16666667" fill="#1D5C75">
+            <tspan x="221.183919" y="777.152344">適任性評估</tspan>
+        </text>
+        <g id="Oval-Copy">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+        </g>
+        <text id="第一階段面談" font-family="MicrosoftJhengHeiBold, Microsoft JhengHei" font-size="30" font-weight="bold" line-spacing="28" letter-spacing="2.5" fill="#1D5C75">
+            <tspan x="196" y="737">第一階段面談</tspan>
+        </text>
+        <text id="Step2" font-family="DFHeiStd-W7, DFHei Std" font-size="28" font-weight="bold" letter-spacing="1.4893617" fill="#AEAEAE">
+            <tspan x="257.184596" y="667">Step2</tspan>
+        </text>
+        <line x1="265" y1="685.5" x2="322" y2="685.5" id="Path" stroke="#C2C2C2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <g id="Group-3" transform="translate(242.000000, 464.000000)">
+            <path d="M94.2888751,96.7710073 L86.3704045,68.4951453 C86.1285506,67.6315156 85.3413535,67.0344828 84.4444982,67.0344828 L26.8052495,67.0344828 C25.9083885,67.0344828 25.1211879,67.6315229 24.8793391,68.4951599 L16.9611,96.771022 C16.6632402,97.8346729 17.2840366,98.9383954 18.3476875,99.2362552 C18.5232447,99.2854174 18.7046995,99.3103448 18.8870104,99.3103448 L92.3629688,99.3103448 C93.4675383,99.3103448 94.3629688,98.4149143 94.3629688,97.3103448 C94.3629688,97.1280289 94.33804,96.9465691 94.2888751,96.7710073 Z" id="Fill-3" stroke="#53D6B9" stroke-width="3" fill="#FFFFFE"></path>
+            <rect id="Rectangle" fill="#53D6B9" x="0" y="0" width="42.5" height="24.8275862" rx="4"></rect>
+            <ellipse id="Oval" fill="#53D6B9" cx="56.25" cy="28.5517241" rx="12.5" ry="12.4137931"></ellipse>
+            <rect id="Rectangle" fill="#53D6B9" x="37.5" y="44.6896552" width="37.5" height="23.5862069" rx="4"></rect>
+            <rect id="Rectangle-Copy" stroke="#FFFFFF" fill="#53D6B9" x="36.75" y="82.4310345" width="41.5" height="25.0689655" rx="4"></rect>
+            <ellipse id="Oval-Copy-3" stroke="#FFFFFF" fill="#53D6B9" cx="57.5" cy="69.5172414" rx="12" ry="11.9137931"></ellipse>
+            <polygon id="Rectangle" fill="#53D6B9" points="35 24.8275862 35 32.2758621 27.5 24.8275862"></polygon>
+            <path d="M70.625,96.8275862 C70.625,103.434199 70.625,106.744544 70.625,106.758621" id="Path-7-Copy" stroke="#FFFFFF" stroke-width="0.75"></path>
+            <path d="M44.375,96.8275862 C44.375,103.434199 44.375,106.744544 44.375,106.758621" id="Path-7-Copy-2" stroke="#FFFFFF" stroke-width="0.75"></path>
+        </g>
+        <g id="Oval">
+            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+        </g>
+        <text id="履歷初審-copy-2" font-family="MicrosoftJhengHeiBold, Microsoft JhengHei" font-size="30" font-weight="bold" line-spacing="28" letter-spacing="2.5" fill="#1D5C75">
+            <tspan x="229" y="324">履歷初審</tspan>
+        </text>
+        <text id="Step1" font-family="DFHeiStd-W7, DFHei Std" font-size="28" font-weight="bold" letter-spacing="1.4893617" fill="#AEAEAE">
+            <tspan x="257.184596" y="263">Step1</tspan>
+        </text>
+        <line x1="265" y1="279.5" x2="322" y2="279.5" id="Path" stroke="#C2C2C2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <g id="Group-8" transform="translate(252.000000, 60.000000)">
+            <g id="Group-2">
+                <rect id="Rectangle" fill="#53D6B9" x="11.1492537" y="42.2068966" width="55.7462687" height="3.72413793"></rect>
+                <path d="M63.355939,2.5 C64.0860692,2.5 64.7797122,2.81918362 65.2546727,3.37371271 L65.2546727,3.37371271 L79.8987337,20.4710436 C80.2867431,20.9240549 80.5,21.5008658 80.5,22.0973309 L80.5,22.0973309 L80.5,103 C80.5,103.690356 80.220178,104.315356 79.767767,104.767767 C79.3153559,105.220178 78.6903559,105.5 78,105.5 L78,105.5 L5,105.5 C4.30964406,105.5 3.68464406,105.220178 3.23223305,104.767767 C2.77982203,104.315356 2.5,103.690356 2.5,103 L2.5,103 L2.5,5 C2.5,4.30964406 2.77982203,3.68464406 3.23223305,3.23223305 C3.68464406,2.77982203 4.30964406,2.5 5,2.5 L5,2.5 Z" id="Rectangle" stroke="#53D6B9" stroke-width="5" fill="#FFFFFF"></path>
+                <path d="M44.4562028,34.7212015 C43.4696271,30.1313652 39.8818834,28.7037045 37.2610516,27.6604616 C36.9568754,27.5396358 36.6683688,27.4240633 36.3989116,27.3106538 C34.9619093,28.7049406 33.056967,29.5553567 30.9698263,29.5553567 C28.8826855,29.5553567 26.9780506,28.7049406 25.5407409,27.3103448 C25.271591,27.4240633 24.9830844,27.5393268 24.6789082,27.6604616 C22.0577691,28.7033955 18.4691037,30.1313652 17.4834498,34.7227466 C17.4567191,34.8302846 17.4410494,35.0286739 17.3439588,37.3398154 C17.3310544,37.650378 17.5040354,37.9383822 17.7833245,38.0709507 C21.7683408,39.9646097 26.3282195,40.9655172 30.9698263,40.9655172 C35.6111259,40.9655172 40.1713118,39.9646097 44.1572498,38.0712597 C44.4365389,37.9383822 44.6095199,37.650378 44.5963082,37.3398154 C44.4995249,35.0413436 44.4835479,34.8318297 44.4562028,34.7212015" id="Fill-16" fill="#53D6B9"></path>
+                <ellipse id="Oval" fill="#53D6B9" cx="30.3507463" cy="19.2413793" rx="6.81343284" ry="6.82758621"></ellipse>
+                <path d="M58.2238806,6.72336123 C63.0107435,5.45196763 67.3771116,6.52793933 71.322985,9.95127633 C75.2688584,13.3746133 78.3353261,18.7471764 80.5223881,26.0689655 L60.2238806,26.0689655 C59.1193111,26.0689655 58.2238806,25.173535 58.2238806,24.0689655 L58.2238806,6.72336123 L58.2238806,6.72336123 Z" id="Triangle" fill="#53D6B9"></path>
+            </g>
+            <rect id="Rectangle" fill="#53D6B9" x="17.3432836" y="52.137931" width="48.3134328" height="4.96551724" rx="2"></rect>
+            <rect id="Rectangle-Copy-2" fill="#53D6B9" x="17.3432836" y="67.0344828" width="48.3134328" height="4.96551724" rx="2"></rect>
+            <rect id="Rectangle-Copy-3" fill="#53D6B9" x="17.3432836" y="83.1724138" width="48.3134328" height="4.96551724" rx="2"></rect>
+        </g>
+        <path id="Line" d="M294,351.5 L294,375.5 L298,375.5 L293.5,384.5 L289,375.5 L293,375.5 L293,351.5 L294,351.5 Z" fill="#3086A3" fill-rule="nonzero"></path>
+        <path id="Line-Copy" d="M294,808.5 L294,832.5 L298,832.5 L293.5,841.5 L289,832.5 L293,832.5 L293,808.5 L294,808.5 Z" fill="#3086A3" fill-rule="nonzero"></path>
+        <path id="Line-Copy-2" d="M294.5,1269.5 L294.5,1293.5 L298.5,1293.5 L294,1302.5 L289.5,1293.5 L293.5,1293.5 L293.5,1269.5 L294.5,1269.5 Z" fill="#3086A3" fill-rule="nonzero"></path>
+        <g id="Oval-Copy-2">
+            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+        </g>
+        <g id="Group" transform="translate(256.000000, 1429.000000)" fill="#FFFFFF">
+            <path d="M0.203389831,0 L70,0 L62.779661,9.73197963 L20.2382239,7.94761573 L9.56651267,7.5 L9.56651267,9.73197963 C5.32797535,7.7222592 2.60806435,6.09349233 1.40677966,4.84567901 C0.205494975,3.59786569 -0.195634968,1.98263936 0.203389831,0 Z" id="Rectangle"></path>
+        </g>
+        <text id="正式錄取-copy-2" font-family="MicrosoftJhengHeiBold, Microsoft JhengHei" font-size="30" font-weight="bold" line-spacing="28" letter-spacing="2.5" fill="#1D5C75">
+            <tspan x="225.731445" y="1637.17578">正式錄取</tspan>
+        </text>
+        <text id="Step4" font-family="DFHeiStd-W7, DFHei Std" font-size="28" font-weight="bold" letter-spacing="1.4893617" fill="#53D6B9">
+            <tspan x="257.684596" y="1578">Step4</tspan>
+        </text>
+        <g id="Offer-2" transform="translate(256.000000, 1409.000000)"></g>
+        <line x1="263" y1="1592" x2="319" y2="1592" id="Path" stroke="#C2C2C2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <g id="Group" transform="translate(247.000000, 1397.000000)">
+            <g id="Group-4" stroke="#53D6B9" stroke-width="4">
+                <path d="M50.5483146,48.6651414 C50.9746397,48.6651414 51.4009648,48.801063 51.7585985,49.0729062 L51.7585985,49.0729062 L95.0121284,81.9506173 L6.08450085,81.9506173 L49.3380307,49.0729062 C49.6956644,48.801063 50.1219895,48.6651414 50.5483146,48.6651414 Z" id="Triangle" fill="#FFFFFF"></path>
+                <path d="M2.54831461,83.9506173 L3.62460232,37.7762791 C3.63747215,37.2241444 4.09549888,36.7869837 4.64763366,36.7998536 C4.81994523,36.80387 4.9882935,36.8523553 5.13634534,36.9406053 L40.9483146,58.2872247 L40.9483146,58.2872247" id="Path-7"></path>
+                <path d="M60.1483146,83.9506173 L61.2246023,37.7762791 C61.2374721,37.2241444 61.6954989,36.7869837 62.2476337,36.7998536 C62.4199452,36.80387 62.5882935,36.8523553 62.7363453,36.9406053 L98.5483146,58.2872247 L98.5483146,58.2872247" id="Path-7-Copy-3" transform="translate(79.348315, 60.006955) scale(-1, 1) translate(-79.348315, -60.006955) "></path>
+                <path d="M13.2,41.3028169 L13.2,1 C13.2,0.44771525 13.6477153,1.01453063e-16 14.2,0 L85.6966292,0 C86.248914,-1.01453063e-16 86.6966292,0.44771525 86.6966292,1 L86.6966292,41.3028169 L86.6966292,41.3028169" id="Path-2"></path>
+            </g>
+            <text id="Offer" font-family="DFHeiStd-W9, DFHei Std" font-size="16" font-weight="700" letter-spacing="1.33333333" fill="#53D6B9">
+                <tspan x="27.7386667" y="23.5774648">Offer</tspan>
+            </text>
+            <line x1="1.96959458" y1="36.9202434" x2="13.2" y2="29.9295775" id="Path-8" stroke="#53D6B9" stroke-width="4"></line>
+            <line x1="86.0152027" y1="38.1510709" x2="97.2456081" y2="31.160405" id="Path-8-Copy" stroke="#53D6B9" stroke-width="4" transform="translate(92.015203, 34.622094) scale(-1, 1) translate(-92.015203, -34.622094) "></line>
+        </g>
+    </g>
+</svg>
